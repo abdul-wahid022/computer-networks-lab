@@ -1,7 +1,7 @@
 # 🌐 Computer Networks - Comprehensive Lab Repository
 
 <p align="center">
-  <img src="./images/banner.png" alt="Computer Networks" width="800"/>
+  <img src="./images/banner.png" alt="Computer Networks" width="550"/>
 </p>
 
 <div align="center">
@@ -11,8 +11,6 @@
 ![Semester](https://img.shields.io/badge/Semester-3-orange?style=for-the-badge)
 
 **A complete collection of networking concepts, configurations, and practical implementations**
-
-[📚 View on GitHub](#) • [💼 LinkedIn Projects](#)
 
 </div>
 
