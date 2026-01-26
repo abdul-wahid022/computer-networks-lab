@@ -418,20 +418,6 @@ APIPA: 169.254.0.0/16 (auto-configuration)
 Default Route: 0.0.0.0/0
 Broadcast: 255.255.255.255 (limited broadcast)
 ```
-
----
-
-## 📁 Repository Structure
-
-```
-Subnetting-Guide/
-│
-├── README.md                    # Complete documentation
-│
-└── images/
-    └── subnetting-banner.png    # Banner image
-```
-
 ---
 
 ## 🎓 What I Learned
