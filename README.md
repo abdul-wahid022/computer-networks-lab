@@ -462,9 +462,6 @@ Feel free to:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul_Wahid-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-wahid022)
 [![GitHub](https://img.shields.io/badge/GitHub-abdul--wahid022-black?style=for-the-badge&logo=github)](https://github.com/abdul-wahid022)
 
-**📊 View Detailed Projects**: Check out my [LinkedIn](#) for completed project implementations and outputs  
-**💻 View Learning Process**: Explore this repository for configurations, commands, and learning progression
-
 </div>
 
 ---
