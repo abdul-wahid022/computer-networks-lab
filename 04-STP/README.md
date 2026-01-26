@@ -1,4 +1,4 @@
-# 🌳 STP Security Features - Complete Guide
+# 🌳 STP Security Features 
 
 <div align="center">
 
