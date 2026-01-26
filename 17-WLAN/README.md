@@ -94,7 +94,7 @@ Basic AP = Same concept in Packet Tracer
 ### Topology - Basic AP
 
 <p align="center">
-  <img src="images/Basic-AP/basic-ap-topology.png" alt="Basic AP Topology" width="700">
+  <img src="images/basic-ap-topology.png" alt="Basic AP Topology" width="700">
 </p>
 
 **Network Components:**
@@ -130,7 +130,7 @@ Wireless Devices:
 #### Step 1: Configure Access Point
 
 <p align="center">
-  <img src="images/Basic-AP/basic-ap-config.png" alt="Basic Access Point Configuration" width="700">
+  <img src="images/basic-ap-config.png" alt="Basic Access Point Configuration" width="700">
 </p>
 
 **Access Point Settings:**
@@ -147,7 +147,7 @@ Password: Office123
 #### Step 2: Laptop Module Change
 
 <p align="center">
-  <img src="images/Basic-AP/laptop-module-change.png" alt="Laptop Module Change" width="700">
+  <img src="images/laptop-module-change.png" alt="Laptop Module Change" width="700">
 </p>
 
 **Physical Configuration:**
@@ -165,7 +165,7 @@ Step 6: Power ON the laptop
 #### Step 3: Laptop Wireless Configuration
 
 <p align="center">
-  <img src="images/Basic-AP/laptop-wireless-config.png" alt="Laptop Wireless Configuration" width="700">
+  <img src="images/laptop-wireless-config.png" alt="Laptop Wireless Configuration" width="700">
 </p>
 
 **Wireless Configuration:**
@@ -184,7 +184,7 @@ Step 7: Click "Connect"
 #### Step 4: Laptop Desktop Wireless
 
 <p align="center">
-  <img src="images/Basic-AP/laptop-desktop-wireless.png" alt="Laptop Desktop PC Wireless" width="700">
+  <img src="images/laptop-desktop-wireless.png" alt="Laptop Desktop PC Wireless" width="700">
 </p>
 
 **Desktop PC Wireless Interface:**
@@ -200,7 +200,7 @@ IP assigned from DHCP
 #### Step 5: Printer Module Change
 
 <p align="center">
-  <img src="images/Basic-AP/printer-module-change.png" alt="Printer Module Change" width="700">
+  <img src="images/printer-module-change.png" alt="Printer Module Change" width="700">
 </p>
 
 **Printer Wireless Setup:**
@@ -215,7 +215,7 @@ IP assigned from DHCP
 #### Step 6: Printer Wireless Configuration
 
 <p align="center">
-  <img src="images/Basic-AP/printer-wireless-config.png" alt="Printer Wireless Configuration" width="700">
+  <img src="images/printer-wireless-config.png" alt="Printer Wireless Configuration" width="700">
 </p>
 
 **Wireless Configuration:**
@@ -231,7 +231,7 @@ PSK Pass: Office123
 #### Step 7: PC Module Change
 
 <p align="center">
-  <img src="images/Basic-AP/pc-module-change.png" alt="PC Module Change" width="700">
+  <img src="images/pc-module-change.png" alt="PC Module Change" width="700">
 </p>
 
 **Physical Configuration:**
@@ -248,7 +248,7 @@ Same process as Laptop:
 #### Step 8: PC Wireless Configuration
 
 <p align="center">
-  <img src="images/Basic-AP/pc-wireless-config.png" alt="PC Wireless Configuration" width="700">
+  <img src="images/pc-wireless-config.png" alt="PC Wireless Configuration" width="700">
 </p>
 
 **Wireless Setup:**
@@ -264,7 +264,7 @@ Password: Office123
 #### Step 9: Tablet Configuration
 
 <p align="center">
-  <img src="images/Basic-AP/tablet-config.png" alt="Tablet Configuration" width="700">
+  <img src="images/tablet-config.png" alt="Tablet Configuration" width="700">
 </p>
 
 **Tablet Setup:**
@@ -282,7 +282,7 @@ PSK Pass: Office123
 #### Step 10: Smartphone Configuration
 
 <p align="center">
-  <img src="images/Basic-AP/smartphone-config.png" alt="Smartphone Configuration" width="700">
+  <img src="images/smartphone-config.png" alt="Smartphone Configuration" width="700">
 </p>
 
 **Smartphone Setup:**
@@ -302,7 +302,7 @@ PSK Pass: Office123
 #### Step 11: DHCP Server Configuration
 
 <p align="center">
-  <img src="images/Basic-AP/basic-dhcp-server-setup.png" alt="DHCP Server Setup" width="700">
+  <img src="images/basic-dhcp-server-setup.png" alt="DHCP Server Setup" width="700">
 </p>
 
 **Server Configuration:**
@@ -316,7 +316,7 @@ Enable DHCP Service
 #### Step 12: DHCP Pool Configuration
 
 <p align="center">
-  <img src="images/Basic-AP/basic-dhcp-pool-config.png" alt="DHCP Pool Configuration" width="700">
+  <img src="images/basic-dhcp-pool-config.png" alt="DHCP Pool Configuration" width="700">
 </p>
 
 **Pool Settings:**
@@ -341,7 +341,7 @@ Maximum Users: 50
 #### Step 13: IP Assignment Through DHCP
 
 <p align="center">
-  <img src="images/Basic-AP/basic-dhcp-ip-assignment.png" alt="DHCP IP Assignment" width="700">
+  <img src="images/basic-dhcp-ip-assignment.png" alt="DHCP IP Assignment" width="700">
 </p>
 
 **Assigned IPs:**
@@ -358,7 +358,7 @@ Smartphone: 192.168.1.104
 ### Verification - Basic AP
 
 <p align="center">
-  <img src="images/Basic-AP/basic-ap-verification.png" alt="Basic AP Verification" width="700">
+  <img src="images/basic-ap-verification.png" alt="Basic AP Verification" width="700">
 </p>
 
 **Check Wireless Connection:**
@@ -442,7 +442,7 @@ Head office (WLC) manages all stores
 ### Topology - WLC Method 1
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-method1-topology.png" alt="WLC Method 1 Topology" width="700">
+  <img src="images/wlc-method1-topology.png" alt="WLC Method 1 Topology" width="700">
 </p>
 
 **Network Components:**
@@ -483,7 +483,7 @@ Head office (WLC) manages all stores
 #### Step 1: Turn On Access Points
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-aps-on.png" alt="Turning on Access Points" width="700">
+  <img src="images/wlc-aps-on.png" alt="Turning on Access Points" width="700">
 </p>
 
 **Power On APs:**
@@ -499,7 +499,7 @@ Head office (WLC) manages all stores
 #### Step 2: WLC IP Configuration
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-ip-config.png" alt="WLC IP Configuration" width="700">
+  <img src="images/wlc-ip-config.png" alt="WLC IP Configuration" width="700">
 </p>
 
 **WLC Network Settings:**
@@ -515,7 +515,7 @@ Default Gateway: 192.168.1.1
 #### Step 3: Configure PC1
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-pc-config.png" alt="PC Configuration" width="700">
+  <img src="images/wlc-pc-config.png" alt="PC Configuration" width="700">
 </p>
 
 **PC1 Settings:**
@@ -532,7 +532,7 @@ Purpose: PC1 will access WLC web interface
 #### Step 4: DHCP Server Configuration
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-dhcp-server.png" alt="DHCP Server Configuration" width="700">
+  <img src="images/wlc-dhcp-server.png" alt="DHCP Server Configuration" width="700">
 </p>
 
 **⚠️ CRITICAL: Add WLC IP to DHCP!**
@@ -558,7 +558,7 @@ Why Add WLC IP?
 #### Step 5: Select DHCP on Access Points
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-ap-dhcp-select.png" alt="AP DHCP Selection" width="700">
+  <img src="images/wlc-ap-dhcp-select.png" alt="AP DHCP Selection" width="700">
 </p>
 
 **AP Configuration:**
@@ -576,7 +576,7 @@ For each Lightweight Access Point:
 #### Step 6: Check PC1 Connection with WLC
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-pc-ping.png" alt="PC to WLC Connectivity" width="700">
+  <img src="images/wlc-pc-ping.png" alt="PC to WLC Connectivity" width="700">
 </p>
 
 **Verification:**
@@ -595,7 +595,7 @@ Expected Result:
 #### Step 7: Open Browser (HTTP)
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-browser-http.png" alt="WLC Browser Access HTTP" width="700">
+  <img src="images/wlc-browser-http.png" alt="WLC Browser Access HTTP" width="700">
 </p>
 
 **Initial Access:**
@@ -610,7 +610,7 @@ Expected Result:
 #### Step 8: Create Admin Credentials
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-initial-credentials.png" alt="WLC Initial Credentials" width="700">
+  <img src="images/wlc-initial-credentials.png" alt="WLC Initial Credentials" width="700">
 </p>
 
 **System Setup:**
@@ -625,7 +625,7 @@ Admin Password: Wlc123
 #### Step 9: Network Configuration (IT Department)
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-network-it.png" alt="WLC Network IT Setup" width="700">
+  <img src="images/wlc-network-it.png" alt="WLC Network IT Setup" width="700">
 </p>
 
 **First WLAN (IT Department):**
@@ -641,7 +641,7 @@ Click "Next"
 #### Step 10: Review Details
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-details-showing.png" alt="Review Settings" width="700">
+  <img src="images/wlc-details-showing.png" alt="Review Settings" width="700">
 </p>
 
 **Confirmation Screen:**
@@ -659,7 +659,7 @@ Just click "Next" (Don't change anything)
 #### Step 11: Apply Configuration
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-click-apply.png" alt="Apply Configuration" width="700">
+  <img src="images/wlc-click-apply.png" alt="Apply Configuration" width="700">
 </p>
 
 **Save Configuration:**
@@ -677,7 +677,7 @@ Previously we had HTTP, now make it HTTPS
 #### Step 12: Access via HTTPS
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-https-access.png" alt="HTTPS Access" width="700">
+  <img src="images/wlc-https-access.png" alt="HTTPS Access" width="700">
 </p>
 
 **Switch to HTTPS:**
@@ -700,7 +700,7 @@ Previously we had HTTP, now make it HTTPS
 #### Step 13: Login to WLC
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-login-screen.png" alt="WLC Login Screen" width="700">
+  <img src="images/wlc-login-screen.png" alt="WLC Login Screen" width="700">
 </p>
 
 **Login Credentials:**
@@ -716,7 +716,7 @@ Click "Login"
 #### Step 14: Successfully Logged In
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-successfully-login.png" alt="Successfully Logged In" width="700">
+  <img src="images/wlc-successfully-login.png" alt="Successfully Logged In" width="700">
 </p>
 
 **Result:**
@@ -733,7 +733,7 @@ Click "Login"
 #### Step 15: View Access Points & WLANs
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-see-4-aps.png" alt="View 4 Access Points" width="700">
+  <img src="images/wlc-see-4-aps.png" alt="View 4 Access Points" width="700">
 </p>
 
 **Navigate:**
@@ -755,7 +755,7 @@ All 4 APs connected to WLC successfully
 #### Step 16: View Existing WLAN
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-view-wlan.png" alt="View WLAN" width="700">
+  <img src="images/wlc-view-wlan.png" alt="View WLAN" width="700">
 </p>
 
 **Check WLANs:**
@@ -770,7 +770,7 @@ All 4 APs connected to WLC successfully
 #### Step 17: Add New WLAN (HR Department)
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-add-name-ssid.png" alt="Add HR Name SSID" width="700">
+  <img src="images/wlc-add-name-ssid.png" alt="Add HR Name SSID" width="700">
 </p>
 
 **Create HR Department:**
@@ -786,7 +786,7 @@ All 4 APs connected to WLC successfully
 #### Step 18: HR Security Settings
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-click-security.png" alt="Click Security Tab" width="700">
+  <img src="images/wlc-click-security.png" alt="Click Security Tab" width="700">
 </p>
 
 **Security Configuration:**
@@ -807,7 +807,7 @@ All 4 APs connected to WLC successfully
 #### Step 19: All 4 WLANs Enabled
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-all-4-enabled.png" alt="All 4 WLANs Enabled" width="700">
+  <img src="images/wlc-all-4-enabled.png" alt="All 4 WLANs Enabled" width="700">
 </p>
 
 **Repeat for HS & IA:**
@@ -859,7 +859,7 @@ With AP Groups:
 #### Step 20: Select AP Groups
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-select-ap-groups.png" alt="Select AP Groups" width="700">
+  <img src="images/wlc-select-ap-groups.png" alt="Select AP Groups" width="700">
 </p>
 
 **Navigate:**
@@ -874,7 +874,7 @@ With AP Groups:
 #### Step 21: Default Group
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-select-default-group.png" alt="Default Group" width="700">
+  <img src="images/wlc-select-default-group.png" alt="Default Group" width="700">
 </p>
 
 **Default Group View:**
@@ -889,7 +889,7 @@ We need to separate them!
 #### Step 22: Create New Groups
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-making-group-it-hr-hs-ia.png" alt="Making Groups" width="700">
+  <img src="images/wlc-making-group-it-hr-hs-ia.png" alt="Making Groups" width="700">
 </p>
 
 **Create Department Groups:**
@@ -906,7 +906,7 @@ We need to separate them!
 #### Step 23: All 4 Groups Made
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-all-4-groups-made.png" alt="All Groups Created" width="700">
+  <img src="images/wlc-all-4-groups-made.png" alt="All Groups Created" width="700">
 </p>
 
 **AP Groups List:**
@@ -925,7 +925,7 @@ Total: 5 AP Groups
 #### Step 24: Configure IT Group
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-configuring-groups.png" alt="Configuring Groups" width="700">
+  <img src="images/wlc-configuring-groups.png" alt="Configuring Groups" width="700">
 </p>
 
 **Assign WLAN to IT Group:**
@@ -943,7 +943,7 @@ Result: IT-Group will only broadcast IT SSID
 #### Step 25: Assign AP to IT Group
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-add-it-ap-group.png" alt="Assign IT AP to Group" width="700">
+  <img src="images/wlc-add-it-ap-group.png" alt="Assign IT AP to Group" width="700">
 </p>
 
 **Move AP to IT Group:**
@@ -966,7 +966,7 @@ IA AP → IA-Group
 #### Step 26: Connect Device to Department
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-device-hr-connection.png" alt="Device HR Connection" width="700">
+  <img src="images/wlc-device-hr-connection.png" alt="Device HR Connection" width="700">
 </p>
 
 **End Device Configuration:**
@@ -987,7 +987,7 @@ Result: Device connected to HR network! ✅
 #### Step 27: Method 1 Output - All Departments Working
 
 <p align="center">
-  <img src="images/WLC-Method-1/wlc-method1-output.png" alt="WLC Method 1 Output" width="700">
+  <img src="images/wlc-method1-output.png" alt="WLC Method 1 Output" width="700">
 </p>
 
 **Final Verification:**
@@ -1035,7 +1035,7 @@ Result: Device connected to HR network! ✅
 ### Topology - WLC Method 2
 
 <p align="center">
-  <img src="images/WLC-Method-2/method2-topology.png" alt="WLC Method 2 Topology" width="700">
+  <img src="images/method2-topology.png" alt="WLC Method 2 Topology" width="700">
 </p>
 
 **Network Components:**
@@ -1069,7 +1069,7 @@ Difference: All APs broadcast all SSIDs
 #### Step 7: Initial Setup - Different Network Name
 
 <p align="center">
-  <img src="images/WLC-Method-2/method2-name-wlc-pass.png" alt="Name WLC Password" width="700">
+  <img src="images/method2-name-wlc-pass.png" alt="Name WLC Password" width="700">
 </p>
 
 **Initial Credentials:**
@@ -1086,7 +1086,7 @@ Password: Wlc123
 #### Step 8: Management ID
 
 <p align="center">
-  <img src="images/WLC-Method-2/method2-management-id.png" alt="Management ID" width="700">
+  <img src="images/method2-management-id.png" alt="Management ID" width="700">
 </p>
 
 **Management Configuration:**
@@ -1105,7 +1105,7 @@ Important: Management ID = WLC IP address
 #### Step 9: Network Trial (Temporary)
 
 <p align="center">
-  <img src="images/WLC-Method-2/method2-network-trial.png" alt="Network Trial" width="700">
+  <img src="images/method2-network-trial.png" alt="Network Trial" width="700">
 </p>
 
 **First WLAN (Temporary):**
@@ -1133,7 +1133,7 @@ Same as Method 1:
 #### Step 11: Remove Trial WLAN
 
 <p align="center">
-  <img src="images/WLC-Method-2/method2-remove-wlan.png" alt="Remove Trial WLAN" width="700">
+  <img src="images/method2-remove-wlan.png" alt="Remove Trial WLAN" width="700">
 </p>
 
 **Delete Trial Network:**
@@ -1151,7 +1151,7 @@ Reason: We'll create proper department WLANs now
 #### Step 12: Create IT Department
 
 <p align="center">
-  <img src="images/WLC-Method-2/method2-for-it-dept.png" alt="Create IT Department" width="700">
+  <img src="images/method2-for-it-dept.png" alt="Create IT Department" width="700">
 </p>
 
 **Create IT WLAN:**
@@ -1166,7 +1166,7 @@ Click "Apply"
 #### Step 13: IT Security Configuration
 
 <p align="center">
-  <img src="images/WLC-Method-2/method2-select-security.png" alt="Select Security" width="700">
+  <img src="images/method2-select-security.png" alt="Select Security" width="700">
 </p>
 
 **Security Settings:**
@@ -1184,7 +1184,7 @@ Click "Apply"
 #### Step 14: Enter IT Password
 
 <p align="center">
-  <img src="images/WLC-Method-2/method2-enter-pass-it.png" alt="Enter IT Password" width="700">
+  <img src="images/method2-enter-pass-it.png" alt="Enter IT Password" width="700">
 </p>
 
 **Set Password:**
@@ -1201,7 +1201,7 @@ IT department fully configured
 #### Step 15: Create Other Departments
 
 <p align="center">
-  <img src="images/WLC-Method-2/method2-do-rest-3.png" alt="Do Rest 3 Departments" width="700">
+  <img src="images/method2-do-rest-3.png" alt="Do Rest 3 Departments" width="700">
 </p>
 
 **Repeat for HR, HS, IA:**
@@ -1230,7 +1230,7 @@ IA Department:
 #### Step 16: All 4 Configured
 
 <p align="center">
-  <img src="images/WLC-Method-2/method2-all-4-configured.png" alt="All 4 Configured" width="700">
+  <img src="images/method2-all-4-configured.png" alt="All 4 Configured" width="700">
 </p>
 
 **Complete WLAN List:**
@@ -1262,7 +1262,7 @@ All enabled and configured!
 #### Step 18: Configure Devices
 
 <p align="center">
-  <img src="images/WLC-Method-2/method2-configuring-devices.png" alt="Configuring Devices" width="700">
+  <img src="images/method2-configuring-devices.png" alt="Configuring Devices" width="700">
 </p>
 
 **Device Setup:**
