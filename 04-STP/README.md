@@ -1292,16 +1292,6 @@ Access Layer:
 
 ---
 
-## 📁 Repository Structure
-
-```
-STP-Security-Features/
-│
-├── README.md                          # Complete documentation
-│
-└── images/
-    └── stp-security-banner.png        # Hero banner image
-```
 
 **Note:** All configurations, examples, and commands are included in this README file for easy reference.
 
