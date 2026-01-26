@@ -96,7 +96,7 @@
 #### 📊 Network Topology:
 
 <p align="center">
-  <img src="images/Static Routing/static-routing-topology.png" alt="Static Routing Topology" width="700">
+  <img src="images/static-routing-topology.png" alt="Static Routing Topology" width="700">
 </p>
 
 #### 🎯 Scenario:
@@ -113,7 +113,7 @@
 ### Configuration - Router 0
 
 <p align="center">
-  <img src="images/Static Routing/static-router0-config.png" alt="Router 0 Configuration" width="700">
+  <img src="images/static-router0-config.png" alt="Router 0 Configuration" width="700">
 </p>
 
 ```cisco
@@ -148,7 +148,7 @@ Router# show ip interface brief
 ### Configuration - Router 1
 
 <p align="center">
-  <img src="images/Static Routing/static-router1-config.png" alt="Router 1 Configuration" width="700">
+  <img src="images/static-router1-config.png" alt="Router 1 Configuration" width="700">
 </p>
 
 ```cisco
@@ -184,7 +184,7 @@ Router(config)# exit
 ### Configuration - Router 2
 
 <p align="center">
-  <img src="images/Static Routing/static-router2-config.png" alt="Router 2 Configuration" width="700">
+  <img src="images/static-router2-config.png" alt="Router 2 Configuration" width="700">
 </p>
 
 ```cisco
@@ -217,7 +217,7 @@ Router(config)# exit
 #### ✅ Verification Output:
 
 <p align="center">
-  <img src="images/Static Routing/static-routing-output.png" alt="Static Routing Output" width="500">
+  <img src="images/static-routing-output.png" alt="Static Routing Output" width="500">
 </p>
 
 **Result:** ✅ All routes successfully configured and connectivity verified between all networks
@@ -308,7 +308,7 @@ Result: ✅ Exact location delivered correctly
 #### 📊 Network Topology:
 
 <p align="center">
-  <img src="images/RIP/rip-topology.png" alt="RIP Topology" width="700">
+  <img src="images/rip-topology.png" alt="RIP Topology" width="700">
 </p>
 
 ---
@@ -316,11 +316,11 @@ Result: ✅ Exact location delivered correctly
 ### Configuration - RIP Routers
 
 <p align="center">
-  <img src="images/RIP/rip-config-rip-ips.png" alt="RIP Configuration" width="700">
+  <img src="images/rip-config-rip-ips.png" alt="RIP Configuration" width="700">
 </p>
 
 <p align="center">
-  <img src="images/RIP/rip-config-routers.png" alt="RIP Configuration" width="700">
+  <img src="images/rip-config-routers.png" alt="RIP Configuration" width="700">
 </p>
 
 ```cisco
@@ -360,7 +360,7 @@ Router# show ip rip database
 #### ✅ R2 to R0 Connectivity:
 
 <p align="center">
-  <img src="images/RIP/rip-r2-to-r0.png" alt="RIP R2 to R0" width="700">
+  <img src="images/rip-r2-to-r0.png" alt="RIP R2 to R0" width="700">
 </p>
 
 **Result:** ✅ Successful communication via RIP learned routes
@@ -370,7 +370,7 @@ Router# show ip rip database
 #### ✅ R2 to R1 Connectivity:
 
 <p align="center">
-  <img src="images/RIP/rip-r2-to-r1.png" alt="RIP R2 to R1" width="700">
+  <img src="images/rip-r2-to-r1.png" alt="RIP R2 to R1" width="700">
 </p>
 
 **Result:** ✅ All routers learning routes via RIP
@@ -485,7 +485,7 @@ Think of it like a "group code" for your EIGRP routers!
 #### 📊 Network Topology:
 
 <p align="center">
-  <img src="images/EIGRP/eigrp-topology.png" alt="EIGRP Topology" width="600">
+  <img src="images/eigrp-topology.png" alt="EIGRP Topology" width="600">
 </p>
 
 ---
@@ -493,7 +493,7 @@ Think of it like a "group code" for your EIGRP routers!
 ### Configuration - Router 6
 
 <p align="center">
-  <img src="images/EIGRP/eigrp-router6-config.png" alt="EIGRP Router 6" width="500">
+  <img src="images/eigrp-router6-config.png" alt="EIGRP Router 6" width="500">
 </p>
 
 ```cisco
@@ -519,7 +519,7 @@ Router# show ip route eigrp
 ### Configuration - Router 0
 
 <p align="center">
-  <img src="images/EIGRP/eigrp-router0-config.png" alt="EIGRP Router 0" width="500">
+  <img src="images/eigrp-router0-config.png" alt="EIGRP Router 0" width="500">
 </p>
 
 ```cisco
@@ -541,7 +541,7 @@ Router(config-router)# exit
 ### Configuration - Router 7
 
 <p align="center">
-  <img src="images/EIGRP/eigrp-router7-config.png" alt="EIGRP Router 7" width="500">
+  <img src="images/eigrp-router7-config.png" alt="EIGRP Router 7" width="500">
 </p>
 
 ```cisco
@@ -563,7 +563,7 @@ Router(config-router)# exit
 ### Configuration - Router 1
 
 <p align="center">
-  <img src="images/EIGRP/eigrp-router1-config.png" alt="EIGRP Router 1" width="500">
+  <img src="images/eigrp-router1-config.png" alt="EIGRP Router 1" width="500">
 </p>
 
 ```cisco
@@ -586,7 +586,7 @@ Router(config-router)# exit
 #### ❌ Before EIGRP Configuration:
 
 <p align="center">
-  <img src="images/EIGRP/eigrp-before.png" alt="Before EIGRP" width="550">
+  <img src="images/eigrp-before.png" alt="Before EIGRP" width="550">
 </p>
 
 **Status:** ❌ No connectivity between networks
@@ -596,7 +596,7 @@ Router(config-router)# exit
 #### ✅ After EIGRP Configuration:
 
 <p align="center">
-  <img src="images/EIGRP/eigrp-after.png" alt="After EIGRP" width="450">
+  <img src="images/eigrp-after.png" alt="After EIGRP" width="450">
 </p>
 
 **Status:** ✅ Full connectivity achieved with EIGRP routing
@@ -822,7 +822,7 @@ OSPF/
 #### 📊 Network Topology:
 
 <p align="center">
-  <img src="images/OSPF/ospf-single-area-topology.png" alt="OSPF Single Area" width="600">
+  <img src="images/ospf-single-area-topology.png" alt="OSPF Single Area" width="600">
 </p>
 
 ---
@@ -830,7 +830,7 @@ OSPF/
 ### Configuration - Router 6 (OSPF)
 
 <p align="center">
-  <img src="images/OSPF/ospf-router6-config.png" alt="OSPF Router 6" width="500">
+  <img src="images/ospf-router6-config.png" alt="OSPF Router 6" width="500">
 </p>
 
 ```cisco
@@ -857,7 +857,7 @@ Router# show ip route ospf
 ### Configuration - Router 7 (OSPF)
 
 <p align="center">
-  <img src="images/OSPF/ospf-router7-config.png" alt="OSPF Router 7" width="500">
+  <img src="images/ospf-router7-config.png" alt="OSPF Router 7" width="500">
 </p>
 
 ```cisco
@@ -879,7 +879,7 @@ Router(config-router)# exit
 ### Configuration - Router 0 (OSPF)
 
 <p align="center">
-  <img src="images/OSPF/ospf-router0-config.png" alt="OSPF Router 0" width="500">
+  <img src="images/ospf-router0-config.png" alt="OSPF Router 0" width="500">
 </p>
 
 ```cisco
@@ -899,7 +899,7 @@ Router(config-router)# exit
 ---
 ### Lab Implementation - OSPF Single-Area Result
 <p align="center">
-  <img src="images/OSPF/ospf-output.png" alt="OSPF Router 0" width="500">
+  <img src="images/ospf-output.png" alt="OSPF Router 0" width="500">
 </p>
 
 ### Lab Implementation - OSPF Multi-Area
@@ -907,7 +907,7 @@ Router(config-router)# exit
 #### 📊 Network Topology:
 
 <p align="center">
-  <img src="images/OSPF/ospf-multi-area-topology.png" alt="OSPF Multi-Area" width="600">
+  <img src="images/ospf-multi-area-topology.png" alt="OSPF Multi-Area" width="600">
 </p>
 
 ---
@@ -915,7 +915,7 @@ Router(config-router)# exit
 ### Configuration - R-A2 (Area 2)
 
 <p align="center">
-  <img src="images/OSPF/ospf-ra2-config.png" alt="R-A2 Configuration" width="500">
+  <img src="images/ospf-ra2-config.png" alt="R-A2 Configuration" width="500">
 </p>
 
 ```cisco
@@ -937,7 +937,7 @@ Router(config-router)# exit
 ### Configuration - R-A0 (Backbone Area 0)
 
 <p align="center">
-  <img src="images/OSPF/ospf-ra0-config.png" alt="R-A0 Configuration" width="500">
+  <img src="images/ospf-ra0-config.png" alt="R-A0 Configuration" width="500">
 </p>
 
 ```cisco
@@ -960,7 +960,7 @@ Router(config-router)# exit
 ### Configuration - R-A1 (Area 1)
 
 <p align="center">
-  <img src="images/OSPF/ospf-ra1-config.png" alt="R-A1 Configuration" width="500">
+  <img src="images/ospf-ra1-config.png" alt="R-A1 Configuration" width="500">
 </p>
 
 ```cisco
@@ -982,7 +982,7 @@ Router(config-router)# exit
 ### Configuration - Main Router (ABR)
 
 <p align="center">
-  <img src="images/OSPF/ospf-main-router-config.png" alt="Main Router Configuration" width="500">
+  <img src="images/ospf-main-router-config.png" alt="Main Router Configuration" width="500">
 </p>
 
 ```cisco
@@ -1006,7 +1006,7 @@ Router(config-router)# exit
 #### ✅ OSPF Verification:
 
 <p align="center">
-  <img src="images/OSPF/ospf-verification.png" alt="OSPF Verification" width="550">
+  <img src="images/ospf-verification.png" alt="OSPF Verification" width="550">
 </p>
 
 **Commands Used:**
@@ -1022,7 +1022,7 @@ show ip protocols
 #### ✅ Successful Connectivity:
 
 <p align="center">
-  <img src="images/OSPF/ospf-successful-ping.png" alt="Successful Ping" width="550">
+  <img src="images/ospf-successful-ping.png" alt="Successful Ping" width="550">
 </p>
 
 **Result:** ✅ Full connectivity between all areas via OSPF
@@ -1340,7 +1340,7 @@ BGP/
 #### 📊 Network Topology:
 
 <p align="center">
-  <img src="images/BGP/bgp-topology.png" alt="BGP Topology" width="600">
+  <img src="images/bgp-topology.png" alt="BGP Topology" width="600">
 </p>
 
 ---
@@ -1348,7 +1348,7 @@ BGP/
 ### Configuration - R-L (Left Router)
 
 <p align="center">
-  <img src="images/BGP/bgp-rl-config.png" alt="BGP R-L Configuration" width="500">
+  <img src="images/bgp-rl-config.png" alt="BGP R-L Configuration" width="500">
 </p>
 
 ```cisco
@@ -1373,7 +1373,7 @@ Router# show ip bgp neighbors
 ### Configuration - R-R (Right Router)
 
 <p align="center">
-  <img src="images/BGP/bgp-rr-config.png" alt="BGP R-R Configuration" width="500">
+  <img src="images/bgp-rr-config.png" alt="BGP R-R Configuration" width="500">
 </p>
 
 ```cisco
@@ -1394,7 +1394,7 @@ Router(config-router)# exit
 ### Configuration - R-M (Middle Router)
 
 <p align="center">
-  <img src="images/BGP/bgp-rm-config.png" alt="BGP R-M Configuration" width="500">
+  <img src="images/bgp-rm-config.png" alt="BGP R-M Configuration" width="500">
 </p>
 
 ```cisco
@@ -1418,7 +1418,7 @@ Router(config-router)# exit
 #### ✅ BGP Verification:
 
 <p align="center">
-  <img src="images/BGP/bgp-verification.png" alt="BGP Verification" width="450">
+  <img src="images/bgp-verification.png" alt="BGP Verification" width="450">
 </p>
 
 **Commands Used:**
@@ -1434,7 +1434,7 @@ show ip route bgp
 #### ✅ BGP Output:
 
 <p align="center">
-  <img src="images/BGP/bgp-output.png" alt="BGP Output" width="700">
+  <img src="images/bgp-output.png" alt="BGP Output" width="700">
 </p>
 
 **Result:** ✅ BGP neighbors established, routes exchanged successfully
