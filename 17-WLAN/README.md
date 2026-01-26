@@ -1126,7 +1126,7 @@ Same as Method 1:
 ✓ Close browser
 ✓ Open with HTTPS
 ✓ Login with admin/Wlc123
-```---
+```
 
 ### Department Setup - Method 2
 
