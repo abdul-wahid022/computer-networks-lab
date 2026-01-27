@@ -481,5 +481,3 @@ This repository is for educational purposes. Feel free to use the configurations
 </div>
 
 ---
-
-![Alt](https://repobeats.axiom.co/api/embed/YOUR_REPOBEATS_LINK_HERE.svg "Repobeats analytics image")
