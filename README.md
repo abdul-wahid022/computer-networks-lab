@@ -1,7 +1,7 @@
 # 🌐 Computer Networks - Comprehensive Lab Repository
 
 <p align="center">
-  <img src="./images/banner.png" alt="Computer Networks" width="650"/>
+  <img src="./images/banner.png" alt="Computer Networks" width="550"/>
 </p>
 
 <div align="center">
