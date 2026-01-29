@@ -42,7 +42,7 @@ This repository contains my comprehensive learning journey through Computer Netw
 - ✅ Best practices and security considerations
 
 **📊 Progress Tracking:** This repository showcases my learning process and hands-on experience.  
-**🎓 Project Outputs:** Final projects and implementation results are shared here [Go to Projects Documentation](Projects/README.md).
+**🎓 Project Outputs:** Final projects and implementation results are shared here [Network Engineering Projects Portfolio](Projects/README.md).
 
 ---
 
