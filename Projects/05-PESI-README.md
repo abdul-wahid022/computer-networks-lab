@@ -109,7 +109,7 @@
 ## 🌐 CENTRAL DISTRIBUTION POINT (HUB)
 
 <div align="center">
-<img src="images/pesi-central-hub.png" alt="Central Hub" width="600">
+<img src="images/pesi-central-hub.png.jpeg" alt="Central Hub" width="600">
 </div>
 
 ### Purpose:
