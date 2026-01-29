@@ -374,31 +374,6 @@ An enterprise network project featuring headquarters and branch connectivity. In
 ```
 
 ---
-
-## 📈 Project Progression
-
-The projects are designed to progressively build networking skills:
-
-```
-Level 1: Mini Branch Network
-    ↓ (Learn: Basic routing, PAT, HSRP)
-    
-Level 2: Smart School Automation
-    ↓ (Learn: IoT, MCU, Automation)
-    
-Level 3: Head Quarter Network
-    ↓ (Learn: Enterprise design, VoIP, Wireless)
-    
-Level 4: HQ V2 Security
-    ↓ (Learn: AAA, SSH, Advanced security)
-    
-Level 5: PESI Infrastructure
-    ↓ (Learn: Multi-site, VPN, Large-scale design)
-    
-Level 6: HQ & Branch with DMZ
-    (Learn: DMZ, Firewalls, Complete enterprise security)
-```
-
 ---
 
 ## 🎓 Learning Outcomes
