@@ -534,7 +534,7 @@ verifyControlAlgorithm();
 
 **💬 Questions? Need Packet Tracer files? Feel free to reach out!**
 
-</div>
+
 
 
 [⬅️ Previous Project](01-MINI-BRANCH-README.md) | [🏠 Back to Main](README.md) | [➡️ Next Project](03-HQ-NETWORK-README.md)
